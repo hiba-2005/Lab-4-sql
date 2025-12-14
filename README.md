@@ -16,9 +16,6 @@ Manipuler les données avec `INSERT`, `UPDATE`, `DELETE` et sécuriser les opér
 <div align="center"> <img src="image/image1.jpg" alt="Résultat image1" width="1000"/> <p><em>Figure 1</em></p> </div>
 
 
-
-<div align="center"> <img src="image/image2.jpg" alt="Résultat image2" width="1000"/> <p><em>Figure 2</em></p> </div>
-
 ## UPDATE : modification des données
 
 <div align="center"> <img src="image/image3.jpg" alt="Résultat image3" width="1000"/> <p><em>Figure 3</em></p> </div>
